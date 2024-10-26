@@ -1,0 +1,68 @@
+{
+  "conceptos_empresariales": {
+    "networking": {
+      "elementos_clave": [
+        "Construcción de relaciones",
+        "Mantenimiento de contactos",
+        "Generación de valor",
+        "Presencia profesional",
+        "Eventos estratégicos"
+      ],
+      "ejemplos_practicos": [
+        "Participación en ferias comerciales",
+        "Cafés virtuales mensuales",
+        "Webinars sectoriales",
+        "Grupos profesionales en LinkedIn",
+        "Conferencias especializadas"
+      ]
+    },
+    "negociacion": {
+      "elementos_clave": [
+        "Preparación",
+        "Propuesta de valor",
+        "Manejo de objeciones",
+        "Cierre",
+        "Seguimiento"
+      ],
+      "ejemplos_practicos": [
+        "Investigación previa de contrapartes",
+        "Presentaciones personalizadas",
+        "Simulación de escenarios",
+        "Documentación de acuerdos",
+        "Plan de implementación"
+      ]
+    },
+    "investigacion_consumidor": {
+      "elementos_clave": [
+        "Comportamiento de compra",
+        "Satisfacción",
+        "Tendencias",
+        "Segmentación",
+        "Necesidades"
+      ],
+      "ejemplos_practicos": [
+        "Análisis de e-commerce",
+        "Encuestas post-compra",
+        "Monitoreo de redes sociales",
+        "Creación de buyer personas",
+        "Entrevistas en profundidad"
+      ]
+    }
+  },
+  "elementos_integradores": {
+    "competencias_fundamentales": [
+      "Pensamiento analítico y estratégico",
+      "Habilidades de comunicación",
+      "Gestión de relaciones",
+      "Análisis de datos",
+      "Adaptabilidad y aprendizaje continuo"
+    ],
+    "factores_exito": [
+      "Planificación estratégica",
+      "Seguimiento sistemático",
+      "Medición de resultados",
+      "Mejora continua",
+      "Innovación constante"
+    ]
+  }
+}
