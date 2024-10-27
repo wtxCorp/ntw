@@ -34,11 +34,11 @@
     },
     "investigacion_consumidor": {
       "elementos_clave": [
-        "Comportamiento de compra",
-        "Satisfacción",
-        "Tendencias",
-        "Segmentación",
-        "Necesidades"
+        "Comportamiento de compra- Mario analiza el comportamiento de 10,000 usuarios en su e-commerce, identificando patrones de abandono de carrito.",
+        "Satisfacción- Ana implementa un sistema NPS que logra 60% de tasa de respuesta y proporciona insights accionables.",
+        "Tendencias- Pablo utiliza herramientas de social listening para monitorear menciones de marca y sentimiento en redes sociales.",
+        "Segmentación- Lucía desarrolla 5 personas buyer basadas en datos demográficos y comportamentales de 50,000 clientes.",
+        "Necesidades- Fernando realiza 50 entrevistas en profundidad para entender las necesidades no satisfechas en el mercado."
       ],
       "ejemplos_practicos": [
         "Análisis de e-commerce",
